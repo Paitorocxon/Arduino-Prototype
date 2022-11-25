@@ -8,3 +8,14 @@ C:\Users\Pait\source\repos\Arduino Game Prototype\Arduino Game Prototype\obj\Deb
 C:\Users\Pait\source\repos\Arduino Game Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.CoreCompileInputs.cache
 C:\Users\Pait\source\repos\Arduino Game Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.exe
 C:\Users\Pait\source\repos\Arduino Game Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.pdb
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\bin\Debug\Arduino Game Prototype.exe.config
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\bin\Debug\Arduino Game Prototype.exe
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\bin\Debug\Arduino Game Prototype.pdb
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.AssemblyReference.cache
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino_Game_Prototype.Form1.resources
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino_Game_Prototype.Properties.Resources.resources
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.GenerateResource.cache
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.exe
+C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.pdb
