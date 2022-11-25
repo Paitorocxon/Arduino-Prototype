@@ -12,9 +12,16 @@ namespace Arduino_Game_Prototype
 {
     public partial class Form1 : Form
     {
+        Drawings drawings = new Drawings();
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            drawings.Fabian_Cube_1(panel1);
+
         }
     }
 }
