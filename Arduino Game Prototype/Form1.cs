@@ -21,12 +21,8 @@ namespace Arduino_Game_Prototype
         private void button1_Click(object sender, EventArgs e)
         {
 
-        }
-
-        private void Form1_ResizeEnd(object sender, EventArgs e)
-        {
-
             drawings.Fabian_Cube_1(panel1);
         }
+
     }
 }
