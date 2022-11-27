@@ -19,3 +19,14 @@ C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debu
 C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.CoreCompileInputs.cache
 C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.exe
 C:\Users\Pait\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.pdb
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\bin\Debug\Arduino Game Prototype.exe.config
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\bin\Debug\Arduino Game Prototype.exe
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\bin\Debug\Arduino Game Prototype.pdb
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.AssemblyReference.cache
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino_Game_Prototype.Form1.resources
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino_Game_Prototype.Properties.Resources.resources
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.GenerateResource.cache
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.exe
+C:\Users\Viktoria\Documents\GitHub\Arduino-Prototype\Arduino Game Prototype\obj\Debug\Arduino Game Prototype.pdb
