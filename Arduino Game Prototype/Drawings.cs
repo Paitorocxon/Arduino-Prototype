@@ -35,6 +35,8 @@ namespace Arduino_Game_Prototype
 
             DrawPixel(2, 2, Color.Red, PANEL.Width);
 
+            DrawPixel(3, 3, Color.Red, PANEL.Width);
+
             using (Graphics g = PANEL.CreateGraphics())
             {
                 g.Clear(Color.Black);               // Leere das Panel und färbe den Hintergrund schwarz
@@ -65,7 +67,12 @@ namespace Arduino_Game_Prototype
         }
         public void DrawPixel(int x, int y, Color color, int screenWidth)
         {
-            carray[((x) + ((y*screenWidth) / Factor) ) ] = color;
+            y--;
+            if (y == 0)
+            {
+                x--;
+            }
+            carray[((x + (y*screenWidth) / Factor) ) ] = color;
         }
     }
 }
