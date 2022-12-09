@@ -25,8 +25,6 @@ namespace Arduino_Game_Prototype
 
             // Loope durch alle Array-Einträge und generiere für jeden eine zufällige Farbe im RGB-Spektrum.
 
-            // -> !!!!! X-KOORDINATEN NICHT BEI 0, SONDERN IMMER BEI 1 BEGINNEN !!!!! <-
-
             for (int i = 0; i < 400;  i++) {
                 carray[i] = Color.FromArgb(255, rnd.Next(0, 255), rnd.Next(0, 255), rnd.Next(0, 255));
             }
@@ -60,9 +58,6 @@ namespace Arduino_Game_Prototype
                     g.FillRectangle(new SolidBrush(carray[i]), rec);
                     
                 }
-
-
-
             }
         }
         public void DrawPixel(int x, int y, Color color, int screenWidth)
