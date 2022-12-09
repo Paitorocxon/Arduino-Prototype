@@ -21,16 +21,19 @@ namespace Arduino_Game_Prototype
         public void Fabian_Cube_1(Panel PANEL)
         {
 
-            
+
 
             // Loope durch alle Array-Einträge und generiere für jeden eine zufällige Farbe im RGB-Spektrum.
+
+            // -> !!!!! X-KOORDINATEN NICHT BEI 0, SONDERN IMMER BEI 1 BEGINNEN !!!!! <-
+
             for (int i = 0; i < 400;  i++) {
                 carray[i] = Color.FromArgb(255, rnd.Next(0, 255), rnd.Next(0, 255), rnd.Next(0, 255));
             }
 
-            DrawPixel(0, 0, Color.Red);
+            DrawPixel(1, 1, Color.Red, PANEL.Width);
 
-            DrawPixel(0, 1, Color.Red);
+            DrawPixel(2, 2, Color.Red, PANEL.Width);
 
             using (Graphics g = PANEL.CreateGraphics())
             {
@@ -60,10 +63,9 @@ namespace Arduino_Game_Prototype
 
             }
         }
-        public void DrawPixel(int x, int y, Color color)
+        public void DrawPixel(int x, int y, Color color, int screenWidth)
         {
-
-            carray[(x * y / Factor) + 1 ] = color; // KRITISCHER FEHLER! X*Y IST FALSCH!!!
+            carray[((x) + ((y*screenWidth) / Factor) ) ] = color;
         }
     }
 }
